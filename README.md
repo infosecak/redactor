@@ -27,6 +27,11 @@ The Redactor extension for Burp Suite allows users to redact specific portions o
 4.	The selected text will be replaced with [redacted] immediately.
 5.	Check the Extender Output tab for debugging logs.
 
+## Flow
+
+![diagram](https://github.com/user-attachments/assets/404d812c-ae52-4b76-a218-8f9b5c9595fd)
+
+
 ## Troubleshooting
 
 No Redaction Applied?
