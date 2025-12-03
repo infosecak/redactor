@@ -19,15 +19,15 @@ The Redactor extension for Burp Suite allows users to redact specific portions o
 3.	Load the redact.py script.
 4.	Ensure the extension is enabled in the Loaded Extensions section.
 
-## Usage
+## Usage for v2
 
 1.	Open a Request in Repeater.
 2.	Highlight the text you want to redact.
-3.	Right-click and select "Redact Selected Text" from the context menu.
-4.	The selected text will be replaced with [redacted] immediately.
+3.	Right-click and select "Redactor".
+4.	The selected text will be replaced with [redacted] immediately in the Redacted Request tab in repeater.
 5.	Check the Extender Output tab for debugging logs.
 
-## Flow
+## Flow for v2
 
 ![diagram](https://github.com/user-attachments/assets/404d812c-ae52-4b76-a218-8f9b5c9595fd)
 
