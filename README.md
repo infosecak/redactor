@@ -28,9 +28,7 @@ The Redactor extension for Burp Suite allows users to redact specific portions o
 5.	Check the Extender Output tab for debugging logs.
 
 ## Flow for v2
-
-![diagram](https://github.com/user-attachments/assets/404d812c-ae52-4b76-a218-8f9b5c9595fd)
-
+<img width="948" height="1951" alt="Untitled diagram-2025-12-03-100417" src="https://github.com/user-attachments/assets/41b65cd7-2b6f-4edb-a9e4-692c9db16e9c" />
 
 ## Troubleshooting
 
